@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\A-12\\Documents\\GitHub\\POOFiscella\\Ej7\\",
+  "WorkspaceRootPath": "C:\\Users\\camat\\Documents\\P.O.O\\Ejercicios\\Ej7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CA886FD-7307-4A32-80E9-AB0EE7CAEED5}|Ej7\\Ej7.csproj|c:\\users\\a-12\\documents\\github\\poofiscella\\ej7\\ej7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8CA886FD-7307-4A32-80E9-AB0EE7CAEED5}|Ej7\\Ej7.csproj|c:\\users\\camat\\documents\\p.o.o\\ejercicios\\ej7\\ej7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CA886FD-7307-4A32-80E9-AB0EE7CAEED5}|Ej7\\Ej7.csproj|solutionrelative:ej7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,20 +14,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\A-12\\Documents\\GitHub\\POOFiscella\\Ej7\\Ej7\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\camat\\Documents\\P.O.O\\Ejercicios\\Ej7\\Ej7\\Program.cs",
               "RelativeDocumentMoniker": "Ej7\\Program.cs",
-              "ToolTip": "C:\\Users\\A-12\\Documents\\GitHub\\POOFiscella\\Ej7\\Ej7\\Program.cs",
-              "RelativeToolTip": "Ej7\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "ToolTip": "C:\\Users\\camat\\Documents\\P.O.O\\Ejercicios\\Ej7\\Ej7\\Program.cs*",
+              "RelativeToolTip": "Ej7\\Program.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T01:57:02.757Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

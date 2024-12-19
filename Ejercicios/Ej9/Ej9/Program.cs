@@ -19,7 +19,7 @@ namespace Ej9
             Cine cine = new Cine(pelicula, 200);
             
             Espectador espectador1 = new Espectador("joaco", 14, 41);
-            Espectador espectador2 = new Espectador("jatniel", 10, 201);
+            Espectador espectador2 = new Espectador("jatniel", 10, 190);
             Espectador espectador3 = new Espectador("lautaro", 14, 440);
             
             asiento.sentarPersona(cine, pelicula, espectador1, list1);

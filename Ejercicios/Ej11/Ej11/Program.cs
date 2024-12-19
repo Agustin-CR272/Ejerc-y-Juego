@@ -11,9 +11,9 @@ namespace Ej11
             const int dineroInicial = 20000;
             Apuesta apuesta = new Apuesta(dineroInicial);
 
-            apuesta.AgregarJugador(new Jugador("Martin"));
-            apuesta.AgregarJugador(new Jugador("Juan"));
-            apuesta.AgregarJugador(new Jugador("Matias"));
+            apuesta.AgregarJugador(new Jugador("joaco"));
+            apuesta.AgregarJugador(new Jugador("jatniel"));
+            apuesta.AgregarJugador(new Jugador("lautaro"));
 
             for (int jornada = 1; jornada < 5; jornada++)
             {
@@ -35,11 +35,11 @@ namespace Ej11
 
     public class Jugador
     {
-        public string Nombre { get; private set; }
-        public int Dinero { get; private set; }
-        public int VecesGanadas { get; private set; }
-        public (int, int) Apuesta1 { get; private set; }
-        public (int, int) Apuesta2 { get; private set; }
+        public string Nombre { get;  set; }
+        public int Dinero { get;  set; }
+        public int VecesGanadas { get;  set; }
+        public (int, int) Apuesta1 { get;  set; }
+        public (int, int) Apuesta2 { get;  set; }
 
         public Jugador(string nombre)
         {
@@ -60,9 +60,9 @@ namespace Ej11
             Dinero -= 500;
         }
 
-        public void Ganar(int LAMAXWIN)
+        public void Ganar(int WIN)
         {
-            Dinero += LAMAXWIN;
+            Dinero += WIN;
             VecesGanadas++;
         }
 
@@ -75,13 +75,13 @@ namespace Ej11
     public class Apuesta : IApuesta
     {
         private List<Jugador> jugadores;
-        private int LAMAXWIN;
+        private int WIN;
         private Random random;
 
         public Apuesta(int dineroInicial)
         {
             jugadores = new List<Jugador>();
-            LAMAXWIN = 0;
+            WIN = 0;
             random = new Random();
         }
 
@@ -92,7 +92,7 @@ namespace Ej11
 
         public void jugarJornada()
         {
-            LAMAXWIN += jugadores.Count * 500;
+            WIN += jugadores.Count * 500;
             (int, int) resultadoPartido1 = (random.Next(0, 5), random.Next(0, 5));
             (int, int) resultadoPartido2 = (random.Next(0, 5), random.Next(0, 5));
 
@@ -109,9 +109,9 @@ namespace Ej11
 
                     if (jugador.Apuesta1 == resultadoPartido1 && jugador.Apuesta2 == resultadoPartido2)
                     {
-                        jugador.Ganar(LAMAXWIN);
-                        Console.WriteLine(jugador.Nombre + " SE HIZO LA MAXWIN DE: " + LAMAXWIN + " pesos");
-                        LAMAXWIN = 0;
+                        jugador.Ganar(WIN);
+                        Console.WriteLine(jugador.Nombre + " SE HIZO LA WIN DE: " + WIN + " pesos");
+                        WIN = 0;
                         hayGanador = true;
                         break;
                     }
@@ -120,7 +120,7 @@ namespace Ej11
 
             if (!hayGanador)
             {
-                Console.WriteLine("Nadie gano, la MAXWIN se le suma mas plata.");
+                Console.WriteLine("Nadie gano, la WIN se le suma mas plata.");
             }
         }
 
@@ -130,7 +130,7 @@ namespace Ej11
             {
                 Console.WriteLine(jugador);
             }
-            Console.WriteLine("Valor de la MAXWIN: " + LAMAXWIN + " pesos");
+            Console.WriteLine("Valor de la WIN: " + WIN + " pesos");
         }
     }
 }

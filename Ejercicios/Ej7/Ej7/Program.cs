@@ -46,7 +46,8 @@ namespace Ej7
             {
                 if (tieneRaiz())
                 {
-                    double raiz = -b / (2 * a); Console.WriteLine("La unica raíz es: " + raiz);
+                    double raiz = -b / (2 * a); 
+                    Console.WriteLine("La unica raíz es: " + raiz);
                 }
                 else
                 {
