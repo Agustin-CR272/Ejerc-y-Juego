@@ -1,0 +1,7 @@
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej6\Ej6\bin\Debug\Ej6.exe.config
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej6\Ej6\bin\Debug\Ej6.exe
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej6\Ej6\bin\Debug\Ej6.pdb
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej6\Ej6\obj\Debug\Ej6.csproj.AssemblyReference.cache
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej6\Ej6\obj\Debug\Ej6.csproj.CoreCompileInputs.cache
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej6\Ej6\obj\Debug\Ej6.exe
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej6\Ej6\obj\Debug\Ej6.pdb

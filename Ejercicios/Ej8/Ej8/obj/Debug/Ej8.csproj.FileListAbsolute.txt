@@ -1,0 +1,14 @@
+C:\Users\A-12\Documents\GitHub\EjerciciosObligatorios\Ej8\Ej8\bin\Debug\Ej8.exe.config
+C:\Users\A-12\Documents\GitHub\EjerciciosObligatorios\Ej8\Ej8\bin\Debug\Ej8.exe
+C:\Users\A-12\Documents\GitHub\EjerciciosObligatorios\Ej8\Ej8\bin\Debug\Ej8.pdb
+C:\Users\A-12\Documents\GitHub\EjerciciosObligatorios\Ej8\Ej8\obj\Debug\Ej8.csproj.AssemblyReference.cache
+C:\Users\A-12\Documents\GitHub\EjerciciosObligatorios\Ej8\Ej8\obj\Debug\Ej8.csproj.CoreCompileInputs.cache
+C:\Users\A-12\Documents\GitHub\EjerciciosObligatorios\Ej8\Ej8\obj\Debug\Ej8.exe
+C:\Users\A-12\Documents\GitHub\EjerciciosObligatorios\Ej8\Ej8\obj\Debug\Ej8.pdb
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej8\Ej8\bin\Debug\Ej8.exe.config
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej8\Ej8\bin\Debug\Ej8.exe
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej8\Ej8\bin\Debug\Ej8.pdb
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej8\Ej8\obj\Debug\Ej8.csproj.AssemblyReference.cache
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej8\Ej8\obj\Debug\Ej8.csproj.CoreCompileInputs.cache
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej8\Ej8\obj\Debug\Ej8.exe
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej8\Ej8\obj\Debug\Ej8.pdb

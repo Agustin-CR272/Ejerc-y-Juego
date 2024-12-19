@@ -1,0 +1,7 @@
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej5\Ej5\bin\Debug\Ej5.exe.config
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej5\Ej5\bin\Debug\Ej5.exe
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej5\Ej5\bin\Debug\Ej5.pdb
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej5\Ej5\obj\Debug\Ej5.csproj.AssemblyReference.cache
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej5\Ej5\obj\Debug\Ej5.csproj.CoreCompileInputs.cache
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej5\Ej5\obj\Debug\Ej5.exe
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej5\Ej5\obj\Debug\Ej5.pdb

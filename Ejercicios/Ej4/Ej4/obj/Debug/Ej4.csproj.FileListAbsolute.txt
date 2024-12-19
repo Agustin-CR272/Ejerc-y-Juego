@@ -1,0 +1,14 @@
+C:\Users\A-12\Documents\GitHub\EjerciciosObligatorios\Ej4\Ej4\bin\Debug\Ej4.exe.config
+C:\Users\A-12\Documents\GitHub\EjerciciosObligatorios\Ej4\Ej4\bin\Debug\Ej4.exe
+C:\Users\A-12\Documents\GitHub\EjerciciosObligatorios\Ej4\Ej4\bin\Debug\Ej4.pdb
+C:\Users\A-12\Documents\GitHub\EjerciciosObligatorios\Ej4\Ej4\obj\Debug\Ej4.csproj.AssemblyReference.cache
+C:\Users\A-12\Documents\GitHub\EjerciciosObligatorios\Ej4\Ej4\obj\Debug\Ej4.csproj.CoreCompileInputs.cache
+C:\Users\A-12\Documents\GitHub\EjerciciosObligatorios\Ej4\Ej4\obj\Debug\Ej4.exe
+C:\Users\A-12\Documents\GitHub\EjerciciosObligatorios\Ej4\Ej4\obj\Debug\Ej4.pdb
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej4\Ej4\bin\Debug\Ej4.exe.config
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej4\Ej4\bin\Debug\Ej4.exe
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej4\Ej4\bin\Debug\Ej4.pdb
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej4\Ej4\obj\Debug\Ej4.csproj.AssemblyReference.cache
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej4\Ej4\obj\Debug\Ej4.csproj.CoreCompileInputs.cache
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej4\Ej4\obj\Debug\Ej4.exe
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej4\Ej4\obj\Debug\Ej4.pdb

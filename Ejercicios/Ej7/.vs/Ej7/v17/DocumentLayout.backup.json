@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tobia\\Documents\\GitHub\\EjerciciosObligatorios\\Ej7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA886FD-7307-4A32-80E9-AB0EE7CAEED5}|Ej7\\Ej7.csproj|c:\\users\\tobia\\documents\\github\\ejerciciosobligatorios\\ej7\\ej7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA886FD-7307-4A32-80E9-AB0EE7CAEED5}|Ej7\\Ej7.csproj|solutionrelative:ej7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tobia\\Documents\\GitHub\\EjerciciosObligatorios\\Ej7\\Ej7\\Program.cs",
+              "RelativeDocumentMoniker": "Ej7\\Program.cs",
+              "ToolTip": "C:\\Users\\tobia\\Documents\\GitHub\\EjerciciosObligatorios\\Ej7\\Ej7\\Program.cs",
+              "RelativeToolTip": "Ej7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:57:02.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

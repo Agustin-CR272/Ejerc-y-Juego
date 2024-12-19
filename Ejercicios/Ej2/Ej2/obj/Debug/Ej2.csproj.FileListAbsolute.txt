@@ -1,0 +1,14 @@
+C:\Users\camat\OneDrive\Documentos\P.O.O\EjerciciosObligatorios\Ejercicios\Ej2\Ej2\bin\Debug\Ej2.exe.config
+C:\Users\camat\OneDrive\Documentos\P.O.O\EjerciciosObligatorios\Ejercicios\Ej2\Ej2\bin\Debug\Ej2.exe
+C:\Users\camat\OneDrive\Documentos\P.O.O\EjerciciosObligatorios\Ejercicios\Ej2\Ej2\bin\Debug\Ej2.pdb
+C:\Users\camat\OneDrive\Documentos\P.O.O\EjerciciosObligatorios\Ejercicios\Ej2\Ej2\obj\Debug\Ej2.csproj.AssemblyReference.cache
+C:\Users\camat\OneDrive\Documentos\P.O.O\EjerciciosObligatorios\Ejercicios\Ej2\Ej2\obj\Debug\Ej2.csproj.CoreCompileInputs.cache
+C:\Users\camat\OneDrive\Documentos\P.O.O\EjerciciosObligatorios\Ejercicios\Ej2\Ej2\obj\Debug\Ej2.exe
+C:\Users\camat\OneDrive\Documentos\P.O.O\EjerciciosObligatorios\Ejercicios\Ej2\Ej2\obj\Debug\Ej2.pdb
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej2\Ej2\bin\Debug\Ej2.exe.config
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej2\Ej2\bin\Debug\Ej2.exe
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej2\Ej2\bin\Debug\Ej2.pdb
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej2\Ej2\obj\Debug\Ej2.csproj.AssemblyReference.cache
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej2\Ej2\obj\Debug\Ej2.csproj.CoreCompileInputs.cache
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej2\Ej2\obj\Debug\Ej2.exe
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej2\Ej2\obj\Debug\Ej2.pdb

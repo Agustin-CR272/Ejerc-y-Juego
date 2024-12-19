@@ -1,0 +1,7 @@
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej14\Ej14\bin\Debug\Ej14.exe.config
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej14\Ej14\bin\Debug\Ej14.exe
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej14\Ej14\bin\Debug\Ej14.pdb
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej14\Ej14\obj\Debug\Ej14.csproj.AssemblyReference.cache
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej14\Ej14\obj\Debug\Ej14.csproj.CoreCompileInputs.cache
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej14\Ej14\obj\Debug\Ej14.exe
+C:\Users\camat\Documents\P.O.O\Ejercicios\Ej14\Ej14\obj\Debug\Ej14.pdb

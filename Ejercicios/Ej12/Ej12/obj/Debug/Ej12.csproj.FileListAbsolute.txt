@@ -1,0 +1,7 @@
+C:\Users\A-12\Documents\GitHub\POOFiscella\Ej12\Ej12\bin\Debug\Ej12.exe.config
+C:\Users\A-12\Documents\GitHub\POOFiscella\Ej12\Ej12\bin\Debug\Ej12.exe
+C:\Users\A-12\Documents\GitHub\POOFiscella\Ej12\Ej12\bin\Debug\Ej12.pdb
+C:\Users\A-12\Documents\GitHub\POOFiscella\Ej12\Ej12\obj\Debug\Ej12.csproj.AssemblyReference.cache
+C:\Users\A-12\Documents\GitHub\POOFiscella\Ej12\Ej12\obj\Debug\Ej12.csproj.CoreCompileInputs.cache
+C:\Users\A-12\Documents\GitHub\POOFiscella\Ej12\Ej12\obj\Debug\Ej12.exe
+C:\Users\A-12\Documents\GitHub\POOFiscella\Ej12\Ej12\obj\Debug\Ej12.pdb
