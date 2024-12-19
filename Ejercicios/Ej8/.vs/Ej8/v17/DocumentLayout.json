@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\camat\\Documents\\P.O.O\\Ejercicios\\Ej8\\",
+  "WorkspaceRootPath": "C:\\Users\\A-27\\Documents\\Ejerc-y-Juego\\Ejercicios\\Ej8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8CFD321-E5C0-4CDD-A509-6D28AA45993A}|Ej8\\Ej8.csproj|c:\\users\\camat\\documents\\p.o.o\\ejercicios\\ej8\\ej8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8CFD321-E5C0-4CDD-A509-6D28AA45993A}|Ej8\\Ej8.csproj|c:\\users\\a-27\\documents\\ejerc-y-juego\\ejercicios\\ej8\\ej8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8CFD321-E5C0-4CDD-A509-6D28AA45993A}|Ej8\\Ej8.csproj|solutionrelative:ej8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,32 +14,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\camat\\Documents\\P.O.O\\Ejercicios\\Ej8\\Ej8\\Program.cs",
-              "RelativeDocumentMoniker": "Ej8\\Program.cs",
-              "ToolTip": "C:\\Users\\camat\\Documents\\P.O.O\\Ejercicios\\Ej8\\Ej8\\Program.cs",
-              "RelativeToolTip": "Ej8\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T01:58:20.919Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -47,7 +30,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -56,6 +43,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\A-27\\Documents\\Ejerc-y-Juego\\Ejercicios\\Ej8\\Ej8\\Program.cs",
+              "RelativeDocumentMoniker": "Ej8\\Program.cs",
+              "ToolTip": "C:\\Users\\A-27\\Documents\\Ejerc-y-Juego\\Ejercicios\\Ej8\\Ej8\\Program.cs",
+              "RelativeToolTip": "Ej8\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA0wCwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:58:20.919Z",
+              "EditorCaption": ""
             }
           ]
         }

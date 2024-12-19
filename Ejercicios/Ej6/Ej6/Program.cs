@@ -24,6 +24,7 @@ namespace Ej6
             {
                 Console.WriteLine("Ambos tienen la misma cantidad de hojas");
             }
+            Console.ReadKey();
         }
 
         public class Libro

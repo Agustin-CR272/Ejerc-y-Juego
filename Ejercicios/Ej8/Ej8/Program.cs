@@ -42,6 +42,7 @@ namespace Ej8
             }
             Console.WriteLine("Estudiantes que aprobaron:");
             aula.MostrarAprobados();
+            Console.ReadKey();
         }
     }
     public class Persona
@@ -72,6 +73,7 @@ namespace Ej8
         {
             Console.WriteLine(Nombre + " Edad: " + Edad + " Genero: " + Sexo + " Calificación: " + Nota);
         }
+
     }
 
     public class Profesor : Persona

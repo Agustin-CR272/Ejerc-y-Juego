@@ -5,3 +5,10 @@ C:\Users\camat\Documents\P.O.O\Ejercicios\Ej6\Ej6\obj\Debug\Ej6.csproj.AssemblyR
 C:\Users\camat\Documents\P.O.O\Ejercicios\Ej6\Ej6\obj\Debug\Ej6.csproj.CoreCompileInputs.cache
 C:\Users\camat\Documents\P.O.O\Ejercicios\Ej6\Ej6\obj\Debug\Ej6.exe
 C:\Users\camat\Documents\P.O.O\Ejercicios\Ej6\Ej6\obj\Debug\Ej6.pdb
+C:\Users\A-27\Documents\Ejerc-y-Juego\Ejercicios\Ej6\Ej6\bin\Debug\Ej6.exe.config
+C:\Users\A-27\Documents\Ejerc-y-Juego\Ejercicios\Ej6\Ej6\bin\Debug\Ej6.exe
+C:\Users\A-27\Documents\Ejerc-y-Juego\Ejercicios\Ej6\Ej6\bin\Debug\Ej6.pdb
+C:\Users\A-27\Documents\Ejerc-y-Juego\Ejercicios\Ej6\Ej6\obj\Debug\Ej6.csproj.AssemblyReference.cache
+C:\Users\A-27\Documents\Ejerc-y-Juego\Ejercicios\Ej6\Ej6\obj\Debug\Ej6.csproj.CoreCompileInputs.cache
+C:\Users\A-27\Documents\Ejerc-y-Juego\Ejercicios\Ej6\Ej6\obj\Debug\Ej6.exe
+C:\Users\A-27\Documents\Ejerc-y-Juego\Ejercicios\Ej6\Ej6\obj\Debug\Ej6.pdb
